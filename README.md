@@ -34,6 +34,8 @@ Khi gia nhập vào một instance đã được tạo, có thể là thông qua
 Chọn khu vực truy cập gần bạn hơn để giảm độ lag về âm thanh hoặc/và hành động của nhận vật.  
 
 Nếu bạn và bạn của bạn ở khu vực cách xa nhau, hai bạn có thể thử nghiệm nhiều server khác nhau, xem server nào có thể cho mình trải nghiệm tốt hơn và lựa chọn server đó để truy cập.   
+Nguồn:
+(tiếng Anh) https://docs.vrchat.com/docs/vrchat-202124
 
 
 ## Những bài cũ: (1 bài)  
