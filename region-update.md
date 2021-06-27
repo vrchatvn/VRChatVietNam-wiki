@@ -32,4 +32,6 @@ Chọn khu vực truy cập gần bạn hơn để giảm độ lag về âm tha
 
 Nếu bạn và bạn của bạn ở khu vực cách xa nhau, hai bạn có thể thử nghiệm nhiều server khác nhau, xem server nào có thể cho mình trải nghiệm tốt hơn và lựa chọn server đó để truy cập.   
 
+Nguồn:
+(tiếng Anh) https://docs.vrchat.com/docs/vrchat-202124
 
