@@ -2,7 +2,10 @@
 
 **Bài mới nhất:**  
 ## GIẢI THÍCH VỀ REGION UPDATE - BẢN CẬP NHẬT LỰA CHỌN KHU VỰC TRUY CẬP  
-https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4
+
+<video width="320" height="240" controls>
+  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
+</video>
 
 <p align="right">
 Ngày viết: 27 tháng 6 năm 2021<br>   
