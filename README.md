@@ -6,7 +6,7 @@
 <video width="320" height="240" controls>
   <source type="video/mp4" src="https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4">
 </video>
-
+https://user-images.githubusercontent.com/46659362/123531180-4b39fb00-d73d-11eb-8f70-4d44b1df06f1.mp4
 <p align="right">
 Ngày viết: 27 tháng 6 năm 2021<br>   
 Update ngày: 16 tháng 6 năm 2021<br>   
